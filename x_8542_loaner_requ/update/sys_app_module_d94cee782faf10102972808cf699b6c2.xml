@@ -8,33 +8,33 @@
         <hint/>
         <homepage/>
         <image/>
-        <link_type>LIST</link_type>
+        <link_type>NEW</link_type>
         <map_page/>
-        <mobile_title>All</mobile_title>
+        <mobile_title>Create New</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
         <name>x_8542_loaner_requ_loaner_request</name>
-        <order>300</order>
+        <order/>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
-        <roles/>
+        <roles>x_8542_loaner_requ.loaner_request_user</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-09-26 20:53:00</sys_created_on>
+        <sys_created_on>2020-09-27 03:19:01</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>ed4419b42feb10102972808cf699b6ef</sys_id>
+        <sys_id>d94cee782faf10102972808cf699b6c2</sys_id>
         <sys_mod_count>1</sys_mod_count>
-        <sys_name>All</sys_name>
+        <sys_name>Create New</sys_name>
         <sys_overrides/>
         <sys_package display_value="Loaner Request" source="x_8542_loaner_requ">8c4311b02feb10102972808cf699b6ee</sys_package>
         <sys_policy/>
         <sys_scope display_value="Loaner Request">8c4311b02feb10102972808cf699b6ee</sys_scope>
-        <sys_update_name>sys_app_module_ed4419b42feb10102972808cf699b6ef</sys_update_name>
+        <sys_update_name>sys_app_module_d94cee782faf10102972808cf699b6c2</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-09-27 03:20:26</sys_updated_on>
+        <sys_updated_on>2020-09-27 03:19:17</sys_updated_on>
         <timeline_page/>
-        <title>All</title>
+        <title>Create New</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>
