@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="location_to_be_used" label="Location to be used" language="en" table="x_8542_loaner_requ_loaner_request">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>location_to_be_used</element>
+            <help/>
+            <hint/>
+            <label>Location to be used</label>
+            <language>en</language>
+            <name>x_8542_loaner_requ_loaner_request</name>
+            <plural>Location to be used</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-09-27 22:58:41</sys_created_on>
+            <sys_id>98aa36492f2b50102972808cf699b6c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Location to be used</sys_name>
+            <sys_package display_value="Loaner Request" source="x_8542_loaner_requ">8c4311b02feb10102972808cf699b6ee</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Loaner Request">8c4311b02feb10102972808cf699b6ee</sys_scope>
+            <sys_update_name>sys_documentation_x_8542_loaner_requ_loaner_request_location_to_be_used_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-09-27 22:58:41</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
